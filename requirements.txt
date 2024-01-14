@@ -1,0 +1,9 @@
+
+Pillow==5.3.0
+pytz==2018.7
+Django==3.0.7
+gunicorn==20.0.4
+sqlparse==0.3.1
+psycopg2-binary==2.8.5
+stripe
+django-paypal
